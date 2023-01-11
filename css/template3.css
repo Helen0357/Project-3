@@ -233,7 +233,7 @@ transition: var(--main-trainsation);
     display: flex;
     padding: 30px 30px;
     gap:90px;
-    opacity: 20%;
+    opacity: 0;
     transition: top var(--main-trainsation), opacity var(--main-trainsation);
     z-index: -1;
 }
